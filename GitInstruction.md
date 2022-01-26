@@ -544,4 +544,19 @@ git rebase --abort
 
 ## Книги и полезные ссылки по изучению git.
 
+>## Книги:
+1. Git Magic
+2. Pro Git
+3. Mercurial: The Definitive Guide
+4. Version Control with Subversion
+
+## Полезные ссылки:
+> [Learn Git Branching](https://learngitbranching.js.org/)
+
+> [git wiki](https://git.wiki.kernel.org/index.php/Main_Page)
+
+> [git reference](https://git-scm.com/docs/gittutorial)
+
+
+
 ## Альтернативные системы контроля версий.
